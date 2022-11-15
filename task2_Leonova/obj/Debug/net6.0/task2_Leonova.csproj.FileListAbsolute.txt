@@ -1,0 +1,15 @@
+C:\Users\Misha\OneDrive\Desktop\HomeworkLeonova151122\task2_Leonova\bin\Debug\net6.0\task2_Leonova.exe
+C:\Users\Misha\OneDrive\Desktop\HomeworkLeonova151122\task2_Leonova\bin\Debug\net6.0\task2_Leonova.deps.json
+C:\Users\Misha\OneDrive\Desktop\HomeworkLeonova151122\task2_Leonova\bin\Debug\net6.0\task2_Leonova.runtimeconfig.json
+C:\Users\Misha\OneDrive\Desktop\HomeworkLeonova151122\task2_Leonova\bin\Debug\net6.0\task2_Leonova.dll
+C:\Users\Misha\OneDrive\Desktop\HomeworkLeonova151122\task2_Leonova\bin\Debug\net6.0\task2_Leonova.pdb
+C:\Users\Misha\OneDrive\Desktop\HomeworkLeonova151122\task2_Leonova\obj\Debug\net6.0\task2_Leonova.csproj.AssemblyReference.cache
+C:\Users\Misha\OneDrive\Desktop\HomeworkLeonova151122\task2_Leonova\obj\Debug\net6.0\task2_Leonova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Misha\OneDrive\Desktop\HomeworkLeonova151122\task2_Leonova\obj\Debug\net6.0\task2_Leonova.AssemblyInfoInputs.cache
+C:\Users\Misha\OneDrive\Desktop\HomeworkLeonova151122\task2_Leonova\obj\Debug\net6.0\task2_Leonova.AssemblyInfo.cs
+C:\Users\Misha\OneDrive\Desktop\HomeworkLeonova151122\task2_Leonova\obj\Debug\net6.0\task2_Leonova.csproj.CoreCompileInputs.cache
+C:\Users\Misha\OneDrive\Desktop\HomeworkLeonova151122\task2_Leonova\obj\Debug\net6.0\task2_Leonova.dll
+C:\Users\Misha\OneDrive\Desktop\HomeworkLeonova151122\task2_Leonova\obj\Debug\net6.0\refint\task2_Leonova.dll
+C:\Users\Misha\OneDrive\Desktop\HomeworkLeonova151122\task2_Leonova\obj\Debug\net6.0\task2_Leonova.pdb
+C:\Users\Misha\OneDrive\Desktop\HomeworkLeonova151122\task2_Leonova\obj\Debug\net6.0\task2_Leonova.genruntimeconfig.cache
+C:\Users\Misha\OneDrive\Desktop\HomeworkLeonova151122\task2_Leonova\obj\Debug\net6.0\ref\task2_Leonova.dll
